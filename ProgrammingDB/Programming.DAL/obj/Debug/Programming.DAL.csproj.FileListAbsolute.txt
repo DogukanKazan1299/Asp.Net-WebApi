@@ -1,0 +1,12 @@
+C:\Users\dkzn1\source\repos\ProgrammingDB\Programming.DAL\bin\Debug\Programming.DAL.dll.config
+C:\Users\dkzn1\source\repos\ProgrammingDB\Programming.DAL\bin\Debug\Programming.DAL.dll
+C:\Users\dkzn1\source\repos\ProgrammingDB\Programming.DAL\bin\Debug\Programming.DAL.pdb
+C:\Users\dkzn1\source\repos\ProgrammingDB\Programming.DAL\bin\Debug\EntityFramework.dll
+C:\Users\dkzn1\source\repos\ProgrammingDB\Programming.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dkzn1\source\repos\ProgrammingDB\Programming.DAL\bin\Debug\EntityFramework.xml
+C:\Users\dkzn1\source\repos\ProgrammingDB\Programming.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dkzn1\source\repos\ProgrammingDB\Programming.DAL\obj\Debug\Programming.DAL.csprojAssemblyReference.cache
+C:\Users\dkzn1\source\repos\ProgrammingDB\Programming.DAL\obj\Debug\Programming.DAL.csproj.CoreCompileInputs.cache
+C:\Users\dkzn1\source\repos\ProgrammingDB\Programming.DAL\obj\Debug\Programming.DAL.csproj.CopyComplete
+C:\Users\dkzn1\source\repos\ProgrammingDB\Programming.DAL\obj\Debug\Programming.DAL.dll
+C:\Users\dkzn1\source\repos\ProgrammingDB\Programming.DAL\obj\Debug\Programming.DAL.pdb
